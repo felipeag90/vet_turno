@@ -45,3 +45,5 @@ El sistema incluye 3 usuarios iniciales en la base de datos, todos con contraseÃ
 - **veterinario vet** â†’ username: `andres@huellitas.com`, password: `1234`
 
 
+## 7. end.
+
