@@ -35,3 +35,13 @@ El proyecto implementa autenticación con JWT y control de roles (USER, ADMIN, V
 
 ## 5. Licencia y Copyright
 © 2026 Duvan Agudelo
+
+## 6. ## Usuarios de prueba
+
+El sistema incluye 3 usuarios iniciales en la base de datos, todos con contraseña `1234`:
+
+- **paula usuario** → username: `paula@huellitas.com`, password: `1234`
+- **marta admin** → username: `marta@huellitas.com`, password: `1234`
+- **veterinario vet** → username: `andres@huellitas.com`, password: `1234`
+
+
