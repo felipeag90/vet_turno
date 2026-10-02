@@ -9,5 +9,4 @@ public class VetTurnoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VetTurnoApplication.class, args);
 	}
-
 }
